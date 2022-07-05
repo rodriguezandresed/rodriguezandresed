@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I am Andres Rodriguez, a full stack developer graduated from [4Geeks Academy](https://4geeksacademy.com/). I am a tech enthusiast & a cibersecurity lover. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Academy](https://4geeksacademy.com/). I am a tech enthusiast & a cibersecurity lover. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 🌍  I'm based in Maracaibo, Venezuela 🇻🇪
 [![Linkedin Badge](https://img.shields.io/badge/rodriguezandresed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)](https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)
