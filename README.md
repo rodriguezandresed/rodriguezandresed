@@ -29,6 +29,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
 - 🏢 I'm currently working at **[Zuliana de Plasticos](www.zupla.com.ve)**
 
 - 🚀 I'm most proficent with (Preferences to Backend Development):
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -37,12 +38,14 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
   
 - 💻I also know to a lesser level:
+
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   
-- 🌱 Learning all about:
+- 🌱 Learning about:
+
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
@@ -50,6 +53,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   
 - ⚙️ Preferred OS! :
+
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
   
