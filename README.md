@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Academy](https://4geeksacademy.com/). I am a tech enthusiast & a cibersecurity lover. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-🌍  I'm based in Maracaibo, Venezuela 🇻🇪
 [![Linkedin Badge](https://img.shields.io/badge/rodriguezandresed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)](https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)
 [![Instagram Badge](https://img.shields.io/badge/-rodriguezandresed-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rodriguezandresed/)](https://instagram.com/rodriguezandresed)
 [![Gmail Badge](https://img.shields.io/badge/-rodriguezandresed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguezandresed@gmail.com)](mailto:rodriguezandresed@gmail.com)
 
+- 🌍  I'm based in Maracaibo, Venezuela 🇻🇪
 
 - 🔭 I’m currently studying a cibersecurity master at [Ceupe](https://www.ceupe.com/master-propios/master-ciberseguridad.html)
 
