@@ -27,7 +27,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
 
 - 🏢 I'm currently working at **[Zuliana de Plasticos](www.zupla.com.ve)**
 
-- 🚀 I'm most proficent with (Preferences to Backend Development):
+- 🚀 I'm most proficent with (Preferences to Backend Development and Network Automation):
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
