@@ -23,7 +23,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
 
 - 🌍  I'm based in Maracaibo, Venezuela 🇻🇪
 
-- 🔭 I’m currently studying a cibersecurity master at [Ceupe](https://www.ceupe.com/master-propios/master-ciberseguridad.html)
+- 🔭 I’m currently pursuing my CCNA certification and AWS Cloud Practicioner Cert!
 
 - 🏢 I'm currently working at **[Zuliana de Plasticos](www.zupla.com.ve)**
 
@@ -56,7 +56,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
   
-- ⚡️ Fun fact: I'm an avid MMORPG player, I love traveling and I'm both a Mechanical Engineer and an Electronics Engineer with a major in Automation and Control
+- ⚡️ Fun fact: I'm an avid MMORPG player, I love traveling and I have a master in Cybersecurity and I'm both a Mechanical Engineer and an Electronics Engineer with a major in Automation and Control
 
 <b>My GitHub Stats</b>
 
