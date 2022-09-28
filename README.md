@@ -25,7 +25,7 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
 
 - 🔭 I’m currently pursuing my CCNA certification and AWS Cloud Practicioner Cert!
 
-- 🏢 I'm currently working at **[Zuliana de Plasticos](www.zupla.com.ve)**
+- 🏢 I'm currently working as a Supporting Network Engineer & System Administrator at **[Zuliana de Plasticos](www.zupla.com.ve)**
 
 - 🚀 I'm most proficent with (Preferences to Backend Development and Network Automation):
 
