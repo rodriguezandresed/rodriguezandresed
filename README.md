@@ -23,11 +23,11 @@ My name is Andres Rodriguez, a full stack developer graduated from [4Geeks Acade
 
 - 🌍  I'm based in Maracaibo, Venezuela 🇻🇪
 
-- 🔭 I’m currently pursuing my CCNA certification and AWS Cloud Practicioner Cert!
+- 🔭 I’m currently pursuing my CCNA certification!
 
 - 🏢 I'm currently working as a Supporting Network Engineer & System Administrator at **[Zuliana de Plasticos](www.zupla.com.ve)**
 
-- 🚀 I'm most proficent with Cloud Networking and Network Infrastructure:
+- 🚀 I'm most proficent with Cloud Networking (Amazon Certified Cloud Practicioneer!) and Network Infrastructure:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
