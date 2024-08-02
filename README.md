@@ -21,13 +21,11 @@ My name is Andres Rodriguez. I am a tech enthusiast & a cybersecurity lover. Alw
 [![Linkedin Badge](https://img.shields.io/badge/rodriguezandresed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)](https://www.linkedin.com/in/andres-eduardo-rodriguez-hernandez/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-rodriguezandresed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguezandresed@gmail.com)](mailto:rodriguezandresed@gmail.com)
 
-- 🌍  I'm based in Maracaibo, Venezuela 🇻🇪
+- 🌍  I'm based in Georgia, US 
 
-- 🔭 I’m currently pursuing my AWS SAA Certification!
+- 🏢 I'm currently working as a Robotics Field Engineer **[SlipRobotics](https://www.sliprobotics.com/)**
 
-- 🏢 I'm currently working as a Supporting Network Engineer & System Administrator at **[Zuliana de Plasticos](www.zupla.com.ve)**
-
-- 🚀 I'm most proficent with Cloud Networking (Amazon Certified Cloud Practicioneer!) and Network Infrastructure (CCNA Certified!):
+- 🚀 I'm most proficent with Cloud Networking (Certified Solutions Architect Associate!) and Network Infrastructure (CCNA Certified!):
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
